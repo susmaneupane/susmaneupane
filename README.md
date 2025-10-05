@@ -32,10 +32,11 @@ I'm actively **looking for a Business Analyst or Business Intelligence role in t
 
 ---
 
-## 💡 Projects (Coming Soon)
+## 💡 Projects
 
 | Project | Tools Used | Summary |
 |--------|------------|---------|
+| **[Restaurant Performance Analysis](https://drive.google.com/file/d/1lipArTNj6JbAP52NBVihhJyKGMpXBn3n/view?usp=drive_link)** | Excel, Tableau | Data-driven guidance for prospective restaurant owners based on the analysis of existing restaurants from a delivery platform data. |
 | **[Returned Items Analytics](https://public.tableau.com/app/profile/susma.neupane/viz/SuperstoreRetunStory/ReturnAnalysis-Superstore)** | Excel, Tableau | Analyzed return patterns of goods for a superstore and provided recommendations to the management to decrease the return rate. |
 | **[E-commerce Analytics](https://docs.google.com/spreadsheets/u/0/d/1DzjaqEMO7_mnmA6UDwG9btRbXuh6pah-09ptD1RFxZE/edit)** | Google Sheets | Analyzed conversion funnel and retention rates for an e-commerce website and conveyed findings clearly and concisely using figures and graphs. |
 | **[New York Airbnb Analysis](https://docs.google.com/spreadsheets/u/0/d/1DnFmiCORQI8BPLurRS3IOBvG5AVf_AR4Dz6CBGLgUT0/edit)** | Google Sheets, SQL | Advised a potential investor about the most popular property types and locations in New York City based on past-performance data. |
